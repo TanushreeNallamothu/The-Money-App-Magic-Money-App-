@@ -5,7 +5,7 @@ tab1,tab2,tab3=st.tabs(['🌟💫 About Me 🌟💫', '🥋🎼🎹🌸📚 Hobb
 with tab1:
     col1,col2=st.columns([0.3,0.7])
     with col1:
-        st.image('Screenshot 2025-06-11 at 11.12.14 AM 4.png')
+        st.image('unicorngirl.png')
         st.subheader("Tanushree Nallamothu :sunglasses:")
     with col2:
         st.write(
@@ -30,7 +30,7 @@ with tab2:
             - learning
                 """)
     with col2:
-        st.image('Screenshot 2025-06-11 at 11.12.14 AM 4.png')
+        st.image('unicorngirl.png')
 
 with tab3:
     st.markdown('''

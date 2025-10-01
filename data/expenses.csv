@@ -10,7 +10,7 @@ Date,Category,Description,Currency Type,Amount
 2024-06-20,Education,Online Course,Euros,120
 2024-06-21,Savings,Investment,Dollars,500
 2024-06-22,Taxes,Property Tax,Dollars,300
-2024-06-23,Miscellaneous,Gifts,Dollars,100
+2024-06-23,Miscellaneous,Gifts,Dollars,1000
 2024-07-24,Housing,khdfbvlbfd,Dollars,10
 2024-07-10,Transportation,dmv kjd,Euros,200
 2024-08-01,Transportation,airways,Dollars,200
@@ -21,8 +21,8 @@ Date,Category,Description,Currency Type,Amount
 2025-09-03,Food,pasta from cheesecake factroy,Dollar,500
 2025-09-10,Education,Headphones,Dollar,10
 2025-09-17,Housing,Couch ,Dollar,1000
-2025-09-17,Miscellaneous,unicorn,Swiss Franc,10
-2025-09-17,Miscellaneous,unicorn,Swiss Franc,20
+2025-09-17,Miscellaneous,unicorn,Swiss Franc,100
+2025-09-17,Miscellaneous,unicorn,Swiss Franc,30
 2025-09-17,Debt Payments,house,Rupee,1000
 2025-09-17,Housing,unicorn,Dollar,10
 2025-05-02,Transportation,car,Dollars,500
@@ -39,9 +39,9 @@ Date,Category,Description,Currency Type,Amount
 2025-09-10,Education,Headphones,Dollar,10
 2025-09-10,Education,Headphones,Dollar,10
 2025-09-10,Education,Headphones,Dollar,10
-2025-09-10,Miscellaneous,headphones,Dollar,1
+2025-09-10,Miscellaneous,headphones,Dollar,10
 2025-09-17,Housing,Couch ,Dollar,1000
 2025-09-17,Miscellaneous,unicorn,Swiss Franc,10
-2025-09-17,Miscellaneous,unicorn,Swiss Franc,20
+2025-09-17,Miscellaneous,unicorn,Swiss Franc,40
 2025-09-17,Debt Payments,house,Rupee,1000
 2025-09-17,Housing,unicorn,Dollar,100

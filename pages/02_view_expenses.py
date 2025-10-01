@@ -18,7 +18,7 @@ def execution():
 
     st.write('Amount :money_with_wings:')
     amount_min = st.slider('Minimum Value',min_value=0,max_value=20000,value=0,step=10)
-    amount_max = st.slider('Maximum Value',min_value=0,max_value=20000,value=0,step=10)
+    amount_max = st.slider('Maximum Value',min_value=0,max_value=20000,value=20000,step=10)
 
     category=st.multiselect('Categories',["Housing", "Utilities", "Transportation", "Food", "Healthcare","Insurance", "Debt Payments", "Entertainment", "Personal Care","Education", "Savings", "Taxes", "Miscellaneous"],placeholder="You can choose multiple option(s)")
 

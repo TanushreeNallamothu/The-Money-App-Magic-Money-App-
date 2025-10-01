@@ -6,7 +6,7 @@ Date,Category,Description,Currency Type,Amount
 2024-06-15,Utilities,Water Bill,Dollars,50
 2024-06-16,Healthcare,Medicine,Euros,2
 2024-06-17,Food,Restaurant Bill,Dollars,60
-2024-06-19,Personal Care,Gym Membership,Dollars,40
+2024-06-19,Personal Care,Gym Membership,Dollars,40000
 2024-06-20,Education,Online Course,Euros,120
 2024-06-21,Savings,Investment,Dollars,500
 2024-06-22,Taxes,Property Tax,Dollars,300
@@ -39,9 +39,9 @@ Date,Category,Description,Currency Type,Amount
 2025-09-10,Education,Headphones,Dollar,10
 2025-09-10,Education,Headphones,Dollar,10
 2025-09-10,Education,Headphones,Dollar,10
-2025-09-10,Miscellaneous,headphones,Dollar,10
+2025-09-10,Miscellaneous,headphones,Dollar,1
 2025-09-17,Housing,Couch ,Dollar,1000
-2025-09-17,Miscellaneous,unicorn,Swiss Franc,10
+2025-09-17,Miscellaneous,unicorn,Swiss Franc,1
 2025-09-17,Miscellaneous,unicorn,Swiss Franc,40
 2025-09-17,Debt Payments,house,Rupee,1000
 2025-09-17,Housing,unicorn,Dollar,100
